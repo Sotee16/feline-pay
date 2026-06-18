@@ -73,13 +73,13 @@ export default function Hero() {
           <div className="relative flex justify-center">
             <div className="relative">
           <img
-  src=" https://thumbs.dreamstime.com/b/glossy-glass-flag-liberian-county-maryland-montserrado-northwestern-portion-west-african-nation-liberia-containing-258427925.jpg?w=992"
+  src="https://th.bing.com/th/id/OIP.wOcXwewHAKoN_qqkICVGDgHaE8?w=265&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
   alt="Gift Card"
-  className="w-full max-w-lg rounded-2xl"
+  className="w-full h-full max-w-lg rounded-2xl"
 />
 
               {/* Floating Card */}
-              <div className="absolute -left-8 top-10 rounded-2xl bg-white p-4 shadow-xl">
+              <div className="relative -left-20 top-5 rounded-2xl bg-white p-4 shadow-xl">
                 <p className="text-sm text-slate-500">
                   Current Rate
                 </p>
